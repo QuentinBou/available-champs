@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/available-champs/static/css/main.c7d98d47.css",
+    "main.js": "/available-champs/static/js/main.25fc108e.js",
+    "index.html": "/available-champs/index.html",
+    "main.c7d98d47.css.map": "/available-champs/static/css/main.c7d98d47.css.map",
+    "main.25fc108e.js.map": "/available-champs/static/js/main.25fc108e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d98d47.css",
+    "static/js/main.25fc108e.js"
+  ]
+}
